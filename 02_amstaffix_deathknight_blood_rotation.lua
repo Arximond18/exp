@@ -767,7 +767,7 @@ do
                     end
                 end
 
-                return amstlib.Util.getDeepestTalentTab() == 1
+                return amstlib.Util.getDeepestTalentTab() == 3
             end,
             function()
                 local cfg = Config:new(cr)
